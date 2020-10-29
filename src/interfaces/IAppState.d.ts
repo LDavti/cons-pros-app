@@ -1,7 +1,7 @@
 
 interface IAppState {
-  cons: IElement[];
   pros: IElement[];
+  cons: IElement[];
 }
 
 interface IElement {
